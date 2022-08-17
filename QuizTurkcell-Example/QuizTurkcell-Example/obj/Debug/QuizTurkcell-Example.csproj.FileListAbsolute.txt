@@ -1,0 +1,7 @@
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\obj\Debug\QuizTurkcell-Example.csprojAssemblyReference.cache
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\obj\Debug\QuizTurkcell-Example.csproj.CoreCompileInputs.cache
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\bin\Debug\QuizTurkcell-Example.exe.config
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\bin\Debug\QuizTurkcell-Example.exe
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\bin\Debug\QuizTurkcell-Example.pdb
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\obj\Debug\QuizTurkcell-Example.exe
+C:\Users\bahat\Documents\Quiz-TurkcellExample\QuizTurkcell-Example\QuizTurkcell-Example\obj\Debug\QuizTurkcell-Example.pdb
